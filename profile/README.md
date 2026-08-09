@@ -116,8 +116,6 @@
 
 | 로그인/회원가입 | 홈 화면 |
 | :---: | :---: |
-| 로그인/회원가입 | 홈 화면 |
-| :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/713bf9c7-1c75-4d88-8d73-ce06893e7b1e" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/28dbc0a6-fc05-414a-85fc-a39cf69882f7" width="190" /> | <img src="https://github.com/user-attachments/assets/b95a0e67-8a22-42e4-bc97-e408f741e97c" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/73c5854a-337b-4b52-8836-7628ba7e87a7" width="190" /> |
 | 숙명 이메일 인증 기반<br>회원가입 및 로그인 | D-Day 배너, 추천 매칭 피드,<br>수강 교환 요청 내역 |
 
