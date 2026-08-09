@@ -1,6 +1,7 @@
 # 🛟 SwapClass : 수강신청을 구조하는 간편하고 안전한 강의 교환 플랫폼
-<img width="1098" height="619" alt="image" src="https://github.com/user-attachments/assets/481222fa-62db-4f74-9ddb-8f8e08f9af45" />
+<img width="1098" height="619" alt="image" src="https://github.com/user-attachments/assets/481222fa-62db-4f74-9ddb-8f8e08f9af45" />  
 
+  
 > 2026-1 SOLUX | Team SongWalks <br>
 > 기간: 2026.03.29 ~ 2026.08.09
 
@@ -20,7 +21,7 @@
 | 개발 | 2026.06 ~ 2026.08.09 |
 | 최종 발표 | 2026.08.10 |
 
-<br></br>
+</br></br>
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻
 
 ❗ 기존 강의 교환(에브리타임 등)에서 발생하는 문제점
@@ -111,7 +112,10 @@
 | CI/CD | GitHub Actions |
 | Push | FCM (Firebase Cloud Messaging) |
 
-<br></br>
+## Demo Video
+[![Demo Video](https://img.youtube.com/vi/ThDeejwzZzE/maxresdefault.jpg)](https://youtu.be/ThDeejwzZzE)
+
+</br></br>
 ## 📷 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀
 
 | 로그인/회원가입 | 홈 화면 |
@@ -158,4 +162,4 @@
 
 * [Frontend Repository](https://github.com/SongWalks/31th_1_songwalks_swapclass_front.git)
 * [Backend Repository](https://github.com/SongWalks/31th_1_songwalks_swapclass_back.git)
-* [서비스 배포 링크](soo-frontend-brown.vercel.app)
+* [서비스 배포 링크](https://soo-frontend-brown.vercel.app)
