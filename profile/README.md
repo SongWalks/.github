@@ -96,7 +96,6 @@
 | Runtime | Node.js |
 | HTTP | Axios |
 
-<br></br>
 ### ⚙️ Backend
 | 분류 | 기술 |
 |---|---|
@@ -117,28 +116,28 @@
 
 | 로그인/회원가입 | 홈 화면 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/713bf9c7-1c75-4d88-8d73-ce06893e7b1e" width="150" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/28dbc0a6-fc05-414a-85fc-a39cf69882f7" width="150" /> | <img src="https://github.com/user-attachments/assets/b95a0e67-8a22-42e4-bc97-e408f741e97c" width="150" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/73c5854a-337b-4b52-8836-7628ba7e87a7" width="150" /> |
+| <img src="https://github.com/user-attachments/assets/713bf9c7-1c75-4d88-8d73-ce06893e7b1e" width="180" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/28dbc0a6-fc05-414a-85fc-a39cf69882f7" width="180" /> | <img src="https://github.com/user-attachments/assets/b95a0e67-8a22-42e4-bc97-e408f741e97c" width="180" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/73c5854a-337b-4b52-8836-7628ba7e87a7" width="180" /> |
 | 숙명 이메일 인증 기반<br>회원가입 및 로그인 | D-Day 배너, 추천 매칭 피드,<br>수강 교환 요청 내역 |
 
 <br>
 
 | 교환 채팅방 | QR 자동 인증 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/bdaff129-a3a5-4f22-b4c1-c21ac60027a8" width="150" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/739f6f07-917e-4ce9-9151-09be8c8a1a56" width="150" /> | <img src="https://github.com/user-attachments/assets/a4030660-9e28-4b5f-ae7d-bfe0f6abd446" width="150" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/204136bb-4feb-4344-ac60-85d00f6b893d" width="150" /> |
+| <img src="https://github.com/user-attachments/assets/bdaff129-a3a5-4f22-b4c1-c21ac60027a8" width="180" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/739f6f07-917e-4ce9-9151-09be8c8a1a56" width="180" /> | <img src="https://github.com/user-attachments/assets/a4030660-9e28-4b5f-ae7d-bfe0f6abd446" width="180" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/204136bb-4feb-4344-ac60-85d00f6b893d" width="180" /> |
 | 실시간 시간 조율, 거래 파기,<br>상태 머신 동기화 UI | PC 화면 공유 기반 수강 내역 및<br>QR 캡처, 동기화 카운트다운 |
 
 <br>
 
 | 게시판 | 라운지 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/fab61843-4aa2-49e0-9182-988027813350" width="150" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/ee411ef1-59e1-4511-8f63-f4b74a1d1861" width="150" /> | <img src="https://github.com/user-attachments/assets/a4aa296f-f193-4e32-b58d-e204486ae6da" width="150" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/8599ded8-c598-4a97-878c-fc22e89277dc" width="150" /> |
+| <img src="https://github.com/user-attachments/assets/fab61843-4aa2-49e0-9182-988027813350" width="180" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/ee411ef1-59e1-4511-8f63-f4b74a1d1861" width="180" /> | <img src="https://github.com/user-attachments/assets/a4aa296f-f193-4e32-b58d-e204486ae6da" width="180" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/8599ded8-c598-4a97-878c-fc22e89277dc" width="180" /> |
 | 내 타겟/버릴 과목 필터링,<br>희망 순위 지정 교환글 작성 | 강의 꿀팁 및 폐강 정보<br>공유 커뮤니티 |
 
 <br>
 
 | 마이페이지 |
 | :---: |
-| <img src="https://github.com/user-attachments/assets/dd5438be-746a-4436-abe0-9b837a4f7344" width="150" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/68729956-c538-4ee4-94ef-3f4553e29491" width="150" /> |
+| <img src="https://github.com/user-attachments/assets/dd5438be-746a-4436-abe0-9b837a4f7344" width="180" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/68729956-c538-4ee4-94ef-3f4553e29491" width="180" /> |
 | 교환 활동 내역, 북마크,<br>계정 설정 및 알림 관리 |
 
 <br></br>
