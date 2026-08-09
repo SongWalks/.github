@@ -112,7 +112,8 @@
 | CI/CD | GitHub Actions |
 | Push | FCM (Firebase Cloud Messaging) |
 
-## Demo Video
+</br></br>
+## 🎥 𝗗𝗲𝗺𝗼 𝗩𝗶𝗱𝗲𝗼
 [![Demo Video](https://img.youtube.com/vi/ThDeejwzZzE/maxresdefault.jpg)](https://youtu.be/ThDeejwzZzE)
 
 </br></br>
@@ -127,21 +128,21 @@
 
 | 교환 채팅방 | QR 자동 인증 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/bdaff129-a3a5-4f22-b4c1-c21ac60027a8" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/739f6f07-917e-4ce9-9151-09be8c8a1a56" width="190" /> | <img src="https://github.com/user-attachments/assets/a4030660-9e28-4b5f-ae7d-bfe0f6abd446" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/204136bb-4feb-4344-ac60-85d00f6b893d" width="190" /> |
+| <img src="https://github.com/user-attachments/assets/01a7b462-8adb-4844-9ddc-f4f9e73f4bf5" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/17c0edcc-0278-40d8-b701-de039bb3ab7c" width="190" /> | <img src="https://github.com/user-attachments/assets/a4030660-9e28-4b5f-ae7d-bfe0f6abd446" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/204136bb-4feb-4344-ac60-85d00f6b893d" width="190" /> |
 | 실시간 시간 조율, 거래 파기,<br>상태 머신 동기화 UI | PC 화면 공유 기반 수강 내역 및<br>QR 캡처, 동기화 카운트다운 |
 
 <br>
 
 | 게시판 | 라운지 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/fab61843-4aa2-49e0-9182-988027813350" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/ee411ef1-59e1-4511-8f63-f4b74a1d1861" width="190" /> | <img src="https://github.com/user-attachments/assets/a4aa296f-f193-4e32-b58d-e204486ae6da" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/8599ded8-c598-4a97-878c-fc22e89277dc" width="190" /> |
+| <img src="https://github.com/user-attachments/assets/fab61843-4aa2-49e0-9182-988027813350" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/ee411ef1-59e1-4511-8f63-f4b74a1d1861" width="190" /> | <img src="https://github.com/user-attachments/assets/e096f803-6e25-4642-a45d-1daa1a9c44f1" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/348cebf6-9cce-4e4d-9f72-e7479a9dbf6b" width="190" /> |
 | 내 타겟/버릴 과목 필터링,<br>희망 순위 지정 교환글 작성 | 강의 꿀팁 및 폐강 정보<br>공유 커뮤니티 |
 
 <br>
 
 | 마이페이지 |
 | :---: |
-| <img src="https://github.com/user-attachments/assets/dd5438be-746a-4436-abe0-9b837a4f7344" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/68729956-c538-4ee4-94ef-3f4553e29491" width="190" /> |
+| <img src="https://github.com/user-attachments/assets/8d5baa32-3df9-4c96-bc5d-717b5bb53fd4" width="190" />&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/68729956-c538-4ee4-94ef-3f4553e29491" width="190" /> |
 | 교환 활동 내역, 북마크,<br>계정 설정 및 알림 관리 |
 
 <br></br>
