@@ -1,4 +1,4 @@
-# 🛟 SwapClass : 수강신청을 구조하는 간편하고 안전한 강의 교환 플랫폼
+# 🛟 수강구조대 : 수강신청을 구조하는 간편하고 안전한 강의 교환 플랫폼
 <img width="1098" height="619" alt="image" src="https://github.com/user-attachments/assets/481222fa-62db-4f74-9ddb-8f8e08f9af45" />  
 
   
@@ -8,7 +8,7 @@
 <br></br>
 ## 🔥 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 
-**SwapClass**
+**수강구조대 (SwapClass)**
 
 기존 익명 커뮤니티 강의 교환의 피로도와 불안감을 해결하기 위해,
 교환 매칭부터 실시간 채팅, 강의 보유 자동 인증까지 지원하는 서비스입니다.
